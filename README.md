@@ -1,1 +1,3 @@
-![doc_2022-12-04_15-46-41](https://user-images.githubusercontent.com/51531010/205489901-02cd2a15-5ad3-4a3a-ae3a-58dab06d87de.gif)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/51531010/205490584-7efa1861-56c4-4b50-a82a-d22e9d5113c8.gif" height="300"/>
+  </p>
